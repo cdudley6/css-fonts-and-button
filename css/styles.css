@@ -32,6 +32,7 @@ a {
 h1,h2,h3,h4 {
     color:var(--heading-color);
     font-family: 'Epilogue', sans-serif;
+    margin: 3rem 0 0;
 }
 
   .button {
