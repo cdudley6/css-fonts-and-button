@@ -33,9 +33,7 @@ h1,h2,h3,h4 {
     color:var(--heading-color);
     font-family: 'Epilogue', sans-serif;
 }
-  p {
-    margin-bottom: 200px;
-  }
+
   .button {
     cursor: pointer;
     display: inline-block;
