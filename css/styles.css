@@ -12,14 +12,14 @@
   }
   
   body {
-    color: var(--font-color)
+    color: var(--font-color);
     font-family: 'Nunito Sans', sans-serif;
 }
 a {
     text-decoration: none;
 }
 h1,h2,h3,h4 {
-    color:var(--heading-color)
+    color:var(--heading-color);
     font-family: 'Epilogue', sans-serif;
 }
   p {
