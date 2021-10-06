@@ -1,17 +1,24 @@
 :root {
     --button-color: #004498;
   }
+  picture img{
+      width: 100%;
+  }
   *{
     box-sizing: border-box;
   }
   
   body {
-    margin: 3em;
-    color: rebeccapurple
-  }
-  a {
+    color: #333;
+    font-family: 'Nunito Sans', sans-serif;
+}
+a {
     text-decoration: none;
-  }
+}
+h1,h2,h3,h4 {
+    color:#004498;
+    font-family: 'Epilogue', sans-serif;
+}
   p {
     margin-bottom: 200px;
   }
