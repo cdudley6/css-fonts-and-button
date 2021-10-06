@@ -1,5 +1,8 @@
 :root {
     --button-color: #004498;
+    --font-color: #333;
+    --heading-color:#004498;
+
   }
   picture img{
       width: 100%;
@@ -9,14 +12,14 @@
   }
   
   body {
-    color: #333;
+    color: var(--font-color)
     font-family: 'Nunito Sans', sans-serif;
 }
 a {
     text-decoration: none;
 }
 h1,h2,h3,h4 {
-    color:#004498;
+    color:var(--heading-color)
     font-family: 'Epilogue', sans-serif;
 }
   p {
